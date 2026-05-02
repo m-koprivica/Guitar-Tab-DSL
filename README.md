@@ -145,17 +145,17 @@ Using the plug-in will simplify lexer+parser generation. You can find this in th
 
 Clone the repository here:
 ```
-https://github.students.cs.ubc.ca/CPSC410-2025W-T2/Project1Group7.git
+https://github.com/m-koprivica/Guitar-Tab-DSL.git
 ```
 ### Setup
 ```
-STEP 1: Open the /Project1Group7/gen folder.
+STEP 1: Open the /gen folder.
 
-STEP 2: Right-click on the folder named /Project1Group7/gen/parser.
+STEP 2: Right-click on the folder named /gen/parser.
 
 STEP 3: Under "Mark Directory As" select "Mark Generated Sources Root"
 
-STEP 4: Open the /Project1Group7/src/parser folder
+STEP 4: Open the /src/parser folder
 
 STEP 5: Right-click on GLangLexer.g4
 
@@ -166,7 +166,7 @@ STEP 7: Repeat steps 5 and 6 for GLangParser.g4
 
 ### Accessing the UI
 ```
-STEP 1: Open the /Project1Group7/src/ui folder
+STEP 1: Open the /src/ui folder
 
 STEP 2: Right-click on the file named "Main"
 
